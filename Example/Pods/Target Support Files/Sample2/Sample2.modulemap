@@ -1,0 +1,6 @@
+framework module Sample2 {
+  umbrella header "Sample2-umbrella.h"
+
+  export *
+  module * { export * }
+}

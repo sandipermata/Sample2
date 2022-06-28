@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import Sample2
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let data = Logger()
+        data.DataBody()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

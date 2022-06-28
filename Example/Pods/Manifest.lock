@@ -1,0 +1,16 @@
+PODS:
+  - Sample2 (1.0.0)
+
+DEPENDENCIES:
+  - Sample2 (from `../`)
+
+EXTERNAL SOURCES:
+  Sample2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Sample2: b265caebec6319434ba200eef19fd1e916aa56f7
+
+PODFILE CHECKSUM: d3d75efd54841f163c6e5cd3fefd3129488940d8
+
+COCOAPODS: 1.11.3

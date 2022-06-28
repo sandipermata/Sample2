@@ -1,0 +1,24 @@
+{
+  "name": "Sample2",
+  "version": "1.0.0",
+  "summary": "this is sample2",
+  "description": "TODO: this sample2 for helping developer to develop application iOS",
+  "homepage": "https://github.com/sandipermata/Sample2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sandipermata": "sandy.spyware@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sandipermata/Sample2.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sample2/Classes/**/*",
+  "swift_version": "5.0"
+}
